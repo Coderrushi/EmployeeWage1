@@ -1,0 +1,14 @@
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\bin\Debug\net6.0\EmployeeWage1.exe
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\bin\Debug\net6.0\EmployeeWage1.deps.json
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\bin\Debug\net6.0\EmployeeWage1.runtimeconfig.json
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\bin\Debug\net6.0\EmployeeWage1.dll
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\bin\Debug\net6.0\EmployeeWage1.pdb
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\EmployeeWage1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\EmployeeWage1.AssemblyInfoInputs.cache
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\EmployeeWage1.AssemblyInfo.cs
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\EmployeeWage1.csproj.CoreCompileInputs.cache
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\EmployeeWage1.dll
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\refint\EmployeeWage1.dll
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\EmployeeWage1.pdb
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\EmployeeWage1.genruntimeconfig.cache
+D:\dotNetPractice\EmployeeWage1\EmployeeWage1\obj\Debug\net6.0\ref\EmployeeWage1.dll
